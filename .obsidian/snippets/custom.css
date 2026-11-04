@@ -1,0 +1,11 @@
+/* Claudian: fondo de los mensajes del usuario, igual al de los bloques de código. */
+.claudian-message-user > .claudian-message-content {
+  background: #00000014 !important;
+}
+
+/* Claudian: texto del prompt, basado en el tamaño de fuente de Obsidian (90 %). */
+.claudian-input .cm-line {
+  font-size: calc(var(--font-text-size) * 0.9);
+}
+
+/* Otros ajustes de estilo van aquí, cada uno con su comentario. */
