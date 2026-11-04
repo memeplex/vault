@@ -1,0 +1,9 @@
+{
+  "types": {
+    "aliases": "multitext",
+    "cssclasses": "multitext",
+    "tags": "multitext",
+    "created": "date",
+    "status": "multitext"
+  }
+}

@@ -1,0 +1,1 @@
+../Sistema/AGENTS.md

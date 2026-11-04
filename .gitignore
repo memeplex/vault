@@ -1,0 +1,11 @@
+/.claude/.cc-writes
+/.claudian/*/*
+!/.claudian/claudian-settings.json
+/.obsidian/plugins/*/*
+!/.obsidian/plugins/*/data.json
+/.obsidian/themes/*/*
+/.obsidian/workspace*.json
+.trash/
+.DS_Store
+Thumbs.db
+*.swp
