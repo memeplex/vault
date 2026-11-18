@@ -1,1 +1,1 @@
-../Sistema/AGENTS.md
+../Otros/AGENTS.md
