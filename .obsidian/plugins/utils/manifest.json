@@ -1,0 +1,8 @@
+{
+  "id": "utils",
+  "name": "Utils",
+  "version": "0.1.0",
+  "minAppVersion": "1.5.0",
+  "description": "Personal odds and ends",
+  "author": "Carlos Pita"
+}

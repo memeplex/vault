@@ -3,6 +3,7 @@
 !/.claudian/claudian-settings.json
 /.obsidian/plugins/*/*
 !/.obsidian/plugins/*/data.json
+!/.obsidian/plugins/utils/*
 /.obsidian/themes/*/*
 /.obsidian/workspace*.json
 .trash/
